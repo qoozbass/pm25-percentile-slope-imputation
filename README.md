@@ -65,11 +65,15 @@ The imputation script outputs a reconstructed PM2.5 time series.
 Citation
 --------
 If you use this code in your research, please cite the corresponding MethodsX article.
+
 Sawet Somnugpong, Narut Butploy, Kanokwan Khiewwan,
 Percentile-Based Slope-Constrained Linear Interpolation for Robust Imputation of Highly Volatile PM2.5 Time Series,
 MethodsX,
 2026,
 103859,
 ISSN 2215-0161,
-https://doi.org/10.1016/j.mex.2026.103859.
+
+
+https://doi.org/10.1016/j.mex.2026.103859
+
 https://doi.org/10.5281/zenodo.19021982
